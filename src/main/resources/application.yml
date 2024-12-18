@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: finance_compass_bot
+
+bot:
+  token: 6962791631:AAFs57VObMTeepcP5cnbNdSyvZ9XVdGWo8Y
+  username: finance_comp_bot
+
+alphavantage:
+  key: SK1Y4PR5DORSLVGI
